@@ -34,3 +34,4 @@ SmartPay.java
     ├── main()                  ← Runs the loop
     └── readInt()               ← Safely reads numbers
 ```
+You can look into "Screenshot.png" for outputs 
